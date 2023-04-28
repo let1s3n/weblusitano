@@ -1,4 +1,9 @@
-.logo {
-  width: 300px;
-  height: auto;
+.mainContainer {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/images/lusitanoBanner2.jpg") left top/100% 100% no-repeat;
+
+  .logo {
+    width: 300px;
+    height: auto;
+  }
 }
